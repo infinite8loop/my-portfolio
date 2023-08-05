@@ -12,6 +12,10 @@ A personal prject to create a portfolio website for a DevOps Engineer
 - Live Server extension for VS Code
 - Git lens for VS Code
 
+## Deployment
+
+GitHub Actions is configured to deploy the code to S3 and create an invalidation in Cloudfront.
+
 End with an example of getting some data out of the system or using it for a little demo
 
 ## License
